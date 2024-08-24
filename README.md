@@ -16,3 +16,5 @@ git clone https://github.com/Tenaity/Nylo-app.git
   - Exchange point for voucher
 - Profile: 
   - Show some dummy data. and voucher already redeemed.
+
+<video controls src="Simulator Screen Recording - iPhone 15 Pro Max - 2024-08-24 at 20.43.42.mp4" title="Title"></video>
